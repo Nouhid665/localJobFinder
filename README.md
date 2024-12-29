@@ -1,1 +1,1 @@
-# localJobFinder
+# localJobFinder Local Job Finder is an innovative platform designed to connect job seekers with opportunities in their local area. Built during a hackathon, the project leverages intuitive design and powerful algorithms to streamline the job search process, catering especially to individuals looking for part-time, freelance, or full-time positions nearby
